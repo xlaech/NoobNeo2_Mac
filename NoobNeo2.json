@@ -308,7 +308,7 @@
                 },
                 "to": [
                   {
-                    "key_code": "+",
+                    "key_code": "close_bracket",
                     "modifiers": [
                         "left_shift"
                     ]
@@ -454,7 +454,7 @@
             {
                 "type": "basic",
                 "from": {
-                  "key_code": "a",
+                  "key_code": "quote",
                   "modifiers": {
                     "optional": [
                       "caps_lock"
@@ -463,9 +463,9 @@
                 },
                 "to": [
                   {
-                    "key_code": "7",
+                    "key_code": "l",
                     "modifiers": [
-                        "left_shift"
+                        "left_option"
                     ]
                   }
                 ],
