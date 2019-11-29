@@ -38,7 +38,9 @@
                   "key_code": "s",
                   "modifiers": {
                     "optional": [
-                      "command"
+                      "command",
+                      "left_shift",
+                      "right_shift"
                     ]
                   }
                 },
@@ -63,7 +65,9 @@
                   "key_code": "d",
                   "modifiers": {
                     "optional": [
-                      "command"
+                      "command",
+                      "left_shift",
+                      "right_shift"
                     ]
                   }
                 },
@@ -88,7 +92,9 @@
                   "key_code": "f",
                   "modifiers": {
                     "optional": [
-                      "command"
+                      "command",
+                      "left_shift",
+                      "right_shift"
                     ]
                   }
                 },
@@ -113,7 +119,9 @@
                   "key_code": "e",
                   "modifiers": {
                     "optional": [
-                      "command"
+                      "command",
+                      "left_shift",
+                      "right_shift"
                     ]
                   }
                 },
