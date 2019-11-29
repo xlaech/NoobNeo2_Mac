@@ -189,7 +189,9 @@
                   "key_code": "g",
                   "modifiers": {
                     "optional": [
-                      "command"
+                      "command",
+                      "left_shift",
+                      "right_shift"
                     ]
                   }
                 },
@@ -215,7 +217,9 @@
                   "key_code": "a",
                   "modifiers": {
                     "optional": [
-                      "command"
+                      "command",
+                      "left_shift",
+                      "right_shift"
                     ]
                   }
                 },
