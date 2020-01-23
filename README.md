@@ -2,7 +2,7 @@
 
 ## Install Mac version
 - Get Karabiner Elements https://pqrs.org/osx/karabiner/
-- Download the json file into ~/.config/karabiner/assets/complex_modifications
+- Download the json file into ~/.config/karabiner/assets/complex_modifications/
 - In the menu of Karabiner-Elements "Complex Modifications" add "Layer 3" and "Layer 4"
 
 ## What is NoobNeo2
